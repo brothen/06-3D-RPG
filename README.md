@@ -25,7 +25,7 @@ https://ambientcg.com/view?id=Metal033
 https://ambientcg.com/view?id=Metal034
 
 ## Future Development
-Unlikely :(
+Nah. I had an idea for a game where you bake a cake but you have to convince each ingredient to join. I'll probably work on that instead.
 
 ## Created by
 Booker Rothenberg
