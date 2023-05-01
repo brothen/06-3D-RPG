@@ -11,11 +11,17 @@ A metal world with a zombie dude and a drone fella
 
 ## References
 https://kenney.nl/assets/blaster-kit
+
 https://kenney.nl/assets/space-kit
+
 https://www.patreon.com/posts/blender-export-16916038
+
 https://ambientcg.com/view?id=Plastic010
+
 https://ambientcg.com/view?id=Metal032
+
 https://ambientcg.com/view?id=Metal033
+
 https://ambientcg.com/view?id=Metal034
 
 ## Future Development
